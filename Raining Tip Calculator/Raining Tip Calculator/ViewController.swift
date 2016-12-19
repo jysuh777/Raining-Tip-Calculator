@@ -40,7 +40,7 @@ class ViewController: UIViewController
         
         // Add subview
         view.addSubview(confettiView)
-        
+        view.sendSubview(toBack: confettiView)
     }
     
     override func viewDidAppear(_ animated: Bool) {
