@@ -29,7 +29,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-For the optional feature of "remembering the bill amount across app restarts," Raining Tip Calculator will remember the bill amount for >= 10 minutes also.
+For the optional feature of "remembering the bill amount across app restarts," Raining Tip Calculator will remember the bill amount for >= 10 minutes also. Also, the confetti animation source is from https://www.cocoacontrols.com/controls/saconfettiview
 
 ## License
 
