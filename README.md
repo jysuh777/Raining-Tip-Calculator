@@ -1,6 +1,3 @@
-# Raining-Tip-Calculator
-raining tip calculator for CodePath University iOS <br />
-![alt tag](https://github.com/jysuh777/Raining-Tip-Calculator/blob/master/Raining%20Tip%20Calculator%201.gif)
 # Pre-work - Raining-Tip-Calculator
 
 Raining Tip Calculator is a tip calculator application for iOS.
@@ -13,12 +10,12 @@ Time spent: 1~2 hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter abill amount, choose a tip percentage, and see the tip and total values.
-* [ ] Settings page to change the default tip percentage.
+* [X] User can enter abill amount, choose a tip percentage, and see the tip and total values.
+* [X] Settings page to change the default tip percentage.
 
 The following **optional** features are implemented:
-* Raining dollar signs
-* [YES] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [X] UI animations
+* [X] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 ## Video Walkthrough 
 
